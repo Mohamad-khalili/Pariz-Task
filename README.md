@@ -27,6 +27,7 @@ A simple Android application that displays a list of movies using a remote API.
 The project follows Clean Architecture with the following layers:
 
 app/src/main/java/com/pariz/task/
+
 ├── core/            
 ├── data/            
 ├── domain/          
